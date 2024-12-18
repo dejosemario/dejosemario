@@ -1,7 +1,7 @@
 # Hello there; Welcome 👋🏾
 
 ## About Me
-I'm a software developer specializing in JavaScript (React, React Native, NextJs). Currently studying at [AltSchool Africa](https://altschoolafrica.com/schools/engineering) to broaden my skills, with a focus on backend development.
+I'm a software developer specializing in JavaScript (React, React Native, NextJs). I graduated from [AltSchool Africa](https://altschoolafrica.com/schools/engineering) as a Backend Engineer.
 
 - LinkedIn: [linkedin.com/in/dejosemario/](https://www.linkedin.com/in/dejosemario/)
 - Email: josemariaodumodu@gmail.com
