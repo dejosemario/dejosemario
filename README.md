@@ -1,7 +1,7 @@
 # Hello there; Welcome 👋🏾
 
 ## About Me
-I'm a Full Stack Software Engineer with expertise in both frontend and backend development. I graduated from [AltSchool Africa](https://altschoolafrica.com/schools/engineering) as a Backend Engineer, where I built robust skills in server-side development, database management, and API design.
+I'm a Full Stack Software Engineer with expertise in both frontend and backend development. I graduated from [AltSchool Africa](https://altschoolafrica.com/schools/engineering) as a Backend Engineer, where I built robust skills in server-side development, database management, and API design. 
 
 - LinkedIn: [linkedin.com/in/dejosemario/](https://www.linkedin.com/in/dejosemario/)
 - Email: josemariaodumodu@gmail.com
@@ -119,6 +119,5 @@ Currently exploring:
 - 📫 Contact: josemariaodumodu@gmail.com
 
 ---
-
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=dejosemario&show_icons=true&include_all_commits=true&hide_border=true" alt="Dejosemario's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dejosemario&langs_count=8&layout=compact&hide_border=true" alt="Dejosemario's GitHub stats" /> |
 | ------------- | ------------- |
