@@ -2,7 +2,7 @@
 
 Full Stack Software Engineer | Backend Engineering Graduate from [AltSchool Africa](https://altschoolafrica.com/schools/engineering) Class of 2023
 
-📫 josemariaodumodu@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/dejosemario/) | 📍 Ibadan, Nigeria
+📫 josemariaodumodu@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/dejosemario/) | 📍 Enugu, Nigeria
 
 ## 👨‍💻 About Me
 
@@ -10,17 +10,21 @@ I'm a Full Stack Software Engineer with a unique journey - I transitioned from d
 
 My passion lies in building impactful solutions that solve real-world problems. Whether it's creating secure platforms for sensitive reporting, developing location-based dating apps, or building comprehensive ticketing systems, I bring the same attention to detail and user-centric approach that I once applied to architectural designs.
 
-When I'm not coding, you'll find me contributing to open-source projects, writing technical articles, or mentoring aspiring developers who are making their own career transitions.
+When I'm not coding, you'll find me mentoring aspiring developers to help them navigate their career paths without getting stuck in tutorial hell (been there, survived that! 🎮). My mission is to make their journey smoother than mine was. And yes, I believe in work-life balance - my ideal debugging happens between gaming sessions, movie marathons, and quality sleep. Don't underestimate the power of a well-rested developer! 😴💪
 
-## 🚀 Recent Projects
+###  🚀 Backend/Full Stack (Current Focus)
+- **BumpIt** *(Feb 2025 - Present)* - Location-based dating app with real-time messaging (NestJS, MongoDB, Socket.io)
+- **Unspokenn** *(Nov 2024 - Present)* - Secure platform for sensitive incident reporting (NestJS, MongoDB) 
+- **Eventful** *(Aug 2024 - Jan 2025)* - Full-stack ticketing platform (React, Express, PostgreSQL)
+- **Teleclinix** *(Nov 2024 - Jan 2025)* - Telemedicine platform with secure video consultations (NestJS, PostgreSQL)
 
-- **BumpIt** - Location-based dating app with real-time messaging (NestJS, MongoDB, Socket.io)
-- **Unspokenn** - Secure platform for sensitive incident reporting (NestJS, MongoDB) 
-- **Eventful** - Full-stack ticketing platform (React, Express, PostgreSQL)
-- **Teleclinix** - Telemedicine platform with secure video consultations (NestJS, PostgreSQL)
-
+### Frontend Development Experience
+- **Shoplivery** *(Jan 2023 - Present)* - E-commerce platform (React Native, TypeScript)
+- **Joint Security Network** *(Nov - Dec 2022)* - Security services app (Next.js, JavaScript)
+- **Fundin** *(Sep - Oct 2022)* - SMFest Hackathon donation app (Next.js, TypeScript)
+- **Girma** *(Aug - Sep 2022)* - Startup funding platform (React, JavaScript)
+- 
 ## 💻 Tech Stack
-
 **Frontend:** React, React Native, NextJs, TypeScript, TailwindCSS  
 **Backend:** Node.js, Express, NestJS, REST APIs  
 **Databases:** MongoDB, PostgreSQL, MySQL  
