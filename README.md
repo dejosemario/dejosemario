@@ -6,9 +6,7 @@ Full Stack Software Engineer | Backend Engineering Graduate from [AltSchool Afri
 
 ## 👨‍💻 About Me
 
-I'm a Full Stack Software Engineer with a unique journey - I transitioned from designing physical buildings as an Architecture graduate to architecting digital solutions in software. This background gives me a distinctive approach to problem-solving, where I apply spatial thinking and structural design principles to create robust, scalable applications.
-
-My passion lies in building impactful solutions that solve real-world problems. Whether it's creating secure platforms for sensitive reporting, developing location-based dating apps, or building comprehensive ticketing systems, I bring the same attention to detail and user-centric approach that I once applied to architectural designs.
+I'm a Full Stack Software Engineer with a unique journey - I transitioned from designing physical buildings as an Architecture graduate to architecting digital solutions in software. This background gives me a distinctive approach to problem-solving, where I apply spatial thinking to create robust, scalable applications.
 
 When I'm not coding, you'll find me mentoring aspiring developers to help them navigate their career paths without getting stuck in tutorial hell (been there, survived that! 🎮). My mission is to make their journey smoother than mine was. And yes, I believe in work-life balance - my ideal debugging happens between gaming sessions, movie marathons, and quality sleep. Don't underestimate the power of a well-rested developer! 😴💪
 
