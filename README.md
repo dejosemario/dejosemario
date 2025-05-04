@@ -17,7 +17,7 @@ When I'm not coding, you'll find me mentoring aspiring developers to help them n
 - **Teleclinix** *(Nov 2024 - Jan 2025)* - Telemedicine platform with secure video consultations (NestJS, PostgreSQL)
 
 ### Frontend Development Experience
-- **Shoplivery** *(Jan 2023 - Present)* - E-commerce platform (React Native, TypeScript)
+- **Shoplivery** *(Jan  - April 2023)* - E-commerce platform (React Native, TypeScript)
 - **Joint Security Network** *(Nov - Dec 2022)* - Security services app (Next.js, JavaScript)
 - **Fundin** *(Sep - Oct 2022)* - SMFest Hackathon donation app (Next.js, TypeScript)
 - **Girma** *(Aug - Sep 2022)* - Startup funding platform (React, JavaScript)
