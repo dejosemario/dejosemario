@@ -13,7 +13,7 @@ When I'm not coding, you'll find me mentoring aspiring developers to help them n
 ###  🚀 Backend/Full Stack (Current Focus)
 - **BumpIt** *(Feb 2025 - Present)* - Location-based dating app with real-time messaging (NestJS, MongoDB, Socket.io)
 - **Unspokenn** *(Nov 2024 - Present)* - Secure platform for sensitive incident reporting (NestJS, MongoDB) 
-- **Eventful** *(Aug 2024 - Jan 2025)* - Full-stack ticketing platform (React, Express, PostgreSQL)
+- **Eventful** *(July 2024 - Sep 2024)* - Full-stack ticketing platform (React, Express, PostgreSQL)
 - **Teleclinix** *(Nov 2024 - Jan 2025)* - Telemedicine platform with secure video consultations (NestJS, PostgreSQL)
 
 ### Frontend Development Experience
