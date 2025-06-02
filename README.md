@@ -2,7 +2,7 @@
 
 Full Stack Software Engineer | Backend Engineering Graduate from [AltSchool Africa](https://altschoolafrica.com/schools/engineering) Class of 2023
 
-📫 josemariaodumodu@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/dejosemario/) | 📍 Enugu, Nigeria
+📫 josemariaodumodu@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/dejosemario/) | 🌐 [Portfolio](https://dejosemario.vercel.app/) | 📍 Enugu, Nigeria
 
 ## 👨‍💻 About Me
 
