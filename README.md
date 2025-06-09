@@ -14,14 +14,15 @@ When I'm not coding, you'll find me mentoring aspiring developers to help them n
 - **BumpIt** *(Feb 2025 - Present)* - Location-based dating app with real-time messaging (NestJS, MongoDB, Socket.io)
 - **Unspokenn** *(Nov 2024 - Jan 2025)* - Secure platform for sensitive incident reporting (NestJS, MongoDB) 
 - **Teleclinix** *(Nov 2024 - Jan 2025)* - Telemedicine platform with secure video consultations (NestJS, PostgreSQL)
-- **Eventful** *(July 2024 - Sep 2024)* - Full-stack ticketing platform (React, Express, PostgreSQL)
+- **Eventful** *(July 2024 - Sep 2024)* - Full-stack ticketing platform (React, Express, MongoDB)
 
 ### Frontend Development Experience
+- **Eventful** *(July - Sept 2024) - Ticketing app designed to simplify event creation, ticket sales, and attendee management(React, Vite, TypeScript)
 - **Shoplivery** *(Jan  - April 2023)* - E-commerce platform (React Native, TypeScript)
 - **Joint Security Network** *(Nov - Dec 2022)* - Security services app (Next.js, JavaScript)
 - **Fundin** *(Sep - Oct 2022)* - SMFest Hackathon donation app (Next.js, TypeScript)
 - **Girma** *(Aug - Sep 2022)* - Startup funding platform (React, JavaScript)
-- 
+  
 ## 💻 Tech Stack
 **Frontend:** React, React Native, NextJs, TypeScript, TailwindCSS  
 **Backend:** Node.js, Express, NestJS, REST APIs  
