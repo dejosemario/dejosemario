@@ -14,7 +14,7 @@ When I'm not coding, you'll find me mentoring aspiring developers to help them n
 - **BumpIt** *(Feb 2025 - Present)* - Location-based dating app with real-time messaging (NestJS, MongoDB, Socket.io)
 - **Unspokenn** *(Nov 2024 - Jan 2025)* - Secure platform for sensitive incident reporting (NestJS, MongoDB) 
 - **Teleclinix** *(Nov 2024 - Jan 2025)* - Telemedicine platform with secure video consultations (NestJS, PostgreSQL)
-- **Eventful** *(July 2024 - Sep 2024)* - Full-stack ticketing platform (React, Express, MongoDB)
+- **Eventful** *(July 2024 - Sep 2024)* - Full-stack ticketing platform (Express.js, MongoDB, Redis)
 
 ### Frontend Development Experience
 - **Eventful** *(July - Sept 2024) - Ticketing app designed to simplify event creation, ticket sales, and attendee management(React, Vite, TypeScript)
