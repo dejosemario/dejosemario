@@ -46,7 +46,7 @@ When I'm not coding, you'll find me mentoring aspiring developers to help them n
 ![](https://github-profile-trophy.vercel.app/?username=dejosemario&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌱 Currently Exploring
-**Message Queues**, **GraphQL**, and **Advanced Cloud Architecture**
+**AI/ML Integration**, **Message Queues**, **GraphQL**, and **Advanced Cloud Architecture**
 
 ## 💡 Interests
 **Open source contributions**, **technical writing**, and **mentoring aspiring developers**
