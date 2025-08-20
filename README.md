@@ -1,12 +1,12 @@
 # Hello there; Welcome 👋🏾
 
-Full Stack Software Engineer | Backend Engineering Graduate from [AltSchool Africa](https://altschoolafrica.com/schools/engineering) Class of 2023
+Backend Engineer | Currently exploring DevOps
 
 📫 josemariaodumodu@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/dejosemario/) | 🌐 [Portfolio](https://dejosemario.vercel.app/) | 📍 Enugu, Nigeria
 
 ## 👨‍💻 About Me
 
-I am a Backend Engineer specializing in building scalable server-side applications and APIs. With a solid foundation in full-stack development, I've evolved to focus primarily on backend architecture, database design, and system optimization. I transitioned from designing physical buildings as an Architecture graduate to architecting digital solutions in software. This background gives me a distinctive approach to problem-solving, where I apply spatial thinking to create robust, scalable applications.
+I am a Backend Engineer specializing in building scalable server-side applications and APIs, and currently diving deep into DevOps practices to bridge the gap between development and operations. With a solid foundation in full-stack development, I've evolved to focus primarily on backend architecture, database design, and system optimization. I transitioned from designing physical buildings as an Architecture graduate to architecting digital solutions in software. This background gives me a distinctive approach to problem-solving, where I apply spatial thinking to create robust, scalable applications.
 
 When I'm not coding, you'll find me mentoring aspiring developers to help them navigate their career paths without getting stuck in tutorial hell (been there, survived that! 🎮). My mission is to make their journey smoother than mine was. And yes, I believe in work-life balance - my ideal debugging happens between gaming sessions, movie marathons, and quality sleep. Don't underestimate the power of a well-rested developer! 😴💪
 
