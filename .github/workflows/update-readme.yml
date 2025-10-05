@@ -1,0 +1,31 @@
+name: Update README Portfolio Message
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Update Portfolio Message
+        run: |
+          messages=(
+            "Yeah, I know you wanna peek... I got you 😏"
+            "Go ahead, take a peek... it's our secret 🤫"
+            "I see you looking... come check it out 👀"
+            "Curious? Don't be shy, take a look 😉"
+            "Yeah, you know you wanna see... go on 😏"
+          )
+          random_msg=${messages[$RANDOM % ${#messages[@]}]}
+          sed -i "s|🚀 \*\*Portfolio:\*\* .*|🚀 **Portfolio:** [dejosemario.vercel.app](https://dejosemario.vercel.app/) - *$random_msg*|g" README.md
+      
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "🔄 Update portfolio message"
+          git push
