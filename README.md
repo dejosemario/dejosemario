@@ -1,33 +1,48 @@
 # Hello there; Welcome 👋🏾
 
-Backend Engineer | Currently exploring DevOps
+Backend Engineer | DevOps Engineer
 
-📫 josemariaodumodu@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/dejosemario/) | 🌐 [Portfolio](https://dejosemario.vercel.app/) | 📍 Enugu, Nigeria
+📫 josemariaodumodu@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/dejosemario/) | 📍 Enugu, Nigeria
+
+🚀 **Portfolio:** [dejosemario.vercel.app](https://dejosemario.vercel.app/) - *Check out my projects!*
 
 ## 👨‍💻 About Me
+I am a Backend and DevOps Engineer specializing in building scalable server-side applications and managing cloud infrastructure. I focus on backend architecture, database design, CI/CD pipelines, containerization, and infrastructure automation.
 
-I am a Backend Engineer specializing in building scalable server-side applications and APIs, and currently diving deep into DevOps practices to bridge the gap between development and operations. With a solid foundation in full-stack development, I've evolved to focus primarily on backend architecture, database design, and system optimization. I transitioned from designing physical buildings as an Architecture graduate to architecting digital solutions in software. This background gives me a distinctive approach to problem-solving, where I apply spatial thinking to create robust, scalable applications.
+I transitioned from designing physical buildings as an Architecture graduate to architecting digital solutions. This background gives me a unique approach to problem-solving, applying structural thinking to build robust, scalable systems.
 
-When I'm not coding, you'll find me mentoring aspiring developers to help them navigate their career paths without getting stuck in tutorial hell (been there, survived that! 🎮). My mission is to make their journey smoother than mine was. And yes, I believe in work-life balance - my ideal debugging happens between gaming sessions, movie marathons, and quality sleep. Don't underestimate the power of a well-rested developer! 😴💪
+When I'm not coding or managing infrastructure, you'll find me mentoring aspiring developers. And yes, I believe in work-life balance - quality debugging happens between gaming sessions, movie marathons, and good sleep! 😴💪
 
-###  🚀 Backend/Full Stack (Current Focus)
-- **BumpIt** *(Feb 2025 - Present)* - Location-based dating app with real-time messaging (NestJS, MongoDB, Socket.io)
-- **Unspokenn** *(Nov 2024 - Jan 2025)* - Secure platform for sensitive incident report (NestJS, MongoDB) 
-- **Teleclinix** *(Nov 2024 - Jan 2025)* - Telemedicine platform with secure video consultations (NestJS, PostgreSQL)
-- **Eventful** *(July 2024 - Sep 2024)* - Full-stack ticketing platform (Express.js, MongoDB, Redis)
-
-### Frontend Development Experience
-- **Eventful** *(July - Sept 2024) - Ticketing app designed to simplify event creation, ticket sales, and attendee management(React, Vite, TypeScript)
-- **Shoplivery** *(Jan  - April 2023)* - E-commerce platform (React Native, TypeScript)
-- **Joint Security Network** *(Nov - Dec 2022)* - Security services app (Next.js, JavaScript)
-- **Fundin** *(Sep - Oct 2022)* - SMFest Hackathon donation app (Next.js, TypeScript)
-- **Girma** *(Aug - Sep 2022)* - Startup funding platform (React, JavaScript)
   
 ## 💻 Tech Stack
-**Frontend:** React, React Native, NextJs, TypeScript, TailwindCSS  
-**Backend:** Node.js, Express, NestJS, REST APIs  
-**Databases:** MongoDB, PostgreSQL, MySQL  
-**Tools:** Docker, Git, AWS, Redis, WebSockets  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Ngrok](https://img.shields.io/badge/Ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -46,7 +61,7 @@ When I'm not coding, you'll find me mentoring aspiring developers to help them n
 ![](https://github-profile-trophy.vercel.app/?username=dejosemario&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌱 Currently Exploring
-**AI/ML Integration**, **Message Queues**, **GraphQL**, and **Advanced Cloud Architecture**
+**AI/ML Integration**
 
 ## 💡 Interests
 **Open source contributions**, **technical writing**, and **mentoring aspiring developers**
