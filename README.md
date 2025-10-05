@@ -14,7 +14,7 @@ I transitioned from designing physical buildings as an Architecture graduate to 
 When I'm not coding or managing infrastructure, you'll find me mentoring aspiring developers. And yes, I believe in work-life balance - quality debugging happens between gaming sessions, movie marathons, and good sleep! 😴💪
 
   
-## 💻 Tech Stack
+## 🛠️ Technologies & Tools 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
