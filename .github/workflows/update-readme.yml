@@ -2,7 +2,10 @@ name: Update README Portfolio Message
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+    - cron: '0 0 * * *' 
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
