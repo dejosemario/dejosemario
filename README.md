@@ -4,7 +4,7 @@ Backend Engineer | DevOps Engineer
 
 📫 josemariaodumodu@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/dejosemario/) | 📍 Enugu, Nigeria
 
-🚀 **Portfolio:** [dejosemario.vercel.app](https://dejosemario.vercel.app/) - *Yeah, you know you wanna see... go on 😏*
+🚀 **Portfolio:** [dejosemario.vercel.app](https://dejosemario.vercel.app/) - *I see you looking... come check it out 👀*
 
 ## 👨‍💻 About Me
 I am a Backend and DevOps Engineer specializing in building scalable server-side applications and managing cloud infrastructure. I focus on backend architecture, database design, CI/CD pipelines, containerization, and infrastructure automation.
