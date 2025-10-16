@@ -24,7 +24,7 @@ jobs:
             "Yeah, you know you wanna see... go on 😏"
           )
           random_msg=${messages[$RANDOM % ${#messages[@]}]}
-          sed -i "s|🚀 \*\*Portfolio:\*\* .*|🚀 **Portfolio:** [dejosemario.vercel.app](https://dejosemario.vercel.app/) - *$random_msg*|g" README.md
+          sed -i "s|🚀 \*\*Portfolio:\*\* .*|🚀 **Portfolio:** [dejosemario.com](https://dejosemario.dumostech.com/) - *$random_msg*|g" README.md
       
       - name: Commit changes
         run: |
