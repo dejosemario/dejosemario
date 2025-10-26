@@ -7,11 +7,11 @@ Backend Engineer | DevOps Engineer
 🚀 **Portfolio:** [dejosemario.com](https://dejosemario.dumostech.com/) - *Yeah, you know you wanna see... go on 😏*
 
 ## 👨‍💻 About Me
-I am a Backend and DevOps Engineer specializing in building scalable server-side applications and managing cloud infrastructure. I focus on backend architecture, database design, CI/CD pipelines, containerization, and infrastructure automation.
+Building scalable server-side applications and cloud infrastructure.
+Focus: Backend architecture, database design, CI/CD, containerization, IaC.
 
-I transitioned from designing physical buildings as an Architecture graduate to architecting digital solutions. This background gives me a unique approach to problem-solving, applying structural thinking to build robust, scalable systems.
-
-When I'm not coding or managing infrastructure, you'll find me mentoring aspiring developers. And yes, I believe in work-life balance - quality debugging happens between gaming sessions, movie marathons, and good sleep! 😴💪
+Former Architecture grad applying structural thinking to digital systems.
+Mentoring developers | Believer in work-life balance 😴💪
 
   
 ## 🛠️ Technologies & Tools 
