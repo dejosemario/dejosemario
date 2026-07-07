@@ -4,7 +4,7 @@ Backend Engineer | DevOps Engineer
 
 📫 josemariaodumodu@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/dejosemario/) | 📍 Enugu, Nigeria
 
-🚀 **Portfolio:** [dejosemario.com](https://dejosemario.dumostech.com/) - *Go ahead, take a peek... it's our secret 🤫*
+🚀 **Portfolio:** [dejosemario.com](https://dejosemario.dumostech.com/) - *Curious? Don't be shy, take a look 😉*
 
 ## 👨‍💻 About Me
 Building scalable server-side applications and cloud infrastructure.
